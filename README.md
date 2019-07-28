@@ -1,2 +1,2 @@
 # stocks
-Stock data extraction from Yahoo finances
+Stock data extraction from Yahoo Finances
